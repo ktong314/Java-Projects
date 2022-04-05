@@ -1,3 +1,6 @@
+/.classpath/
+/.project/
+
 # Additional files students tend to commit (DO NOT REMOVE OR COMMENT THESE OUT)
 *.pdf
 *.doc
